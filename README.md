@@ -101,6 +101,3 @@ This project demonstrates the power and simplicity of JsonPowerDB in web-based a
 
 For more information, please refer to the [official JsonPowerDB documentation](https://login2explore.com/jpdb/docs.html).
 
----
-
-Feel free to customize this `README.md` further to better reflect your project specifics and structure.
